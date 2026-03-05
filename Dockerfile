@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM ubi-micro:latest
 
 ARG BUILDREPO=https://incorrect-url
 
